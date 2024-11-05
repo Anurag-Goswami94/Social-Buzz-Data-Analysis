@@ -1,0 +1,57 @@
+1> CLient Name:- Social Buzz.
+2> What the Cliet want:-  An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity . 
+3> Tasks to be delegated:  
+	# Creation of an up-to-date big data best practices presentation  
+	# Extraction of sample data sets using SQL  
+	# On-site audit of their data-center
+	# Merging of sample data set tables  
+	# Virtual session with Social Buzz team to present previous client success stories relevant to them 
+	# Preparation of best practice document for IPO  
+	# Loading of sample data sets into Accenture sandbox database  
+	# Technology architecture workshop with Social Buzz Data Team to understand their technology landscape
+	# Stress testing of their technology to identify weak spots  
+	# Communication with previous IPO companies within our client base for reference stories 
+	# Analysis of sample data sets with visualizations  
+	# Full documentation of the process that we can guide them through for IPO 
+
+4> To clarify why you made this selection:
+
+	# The brief carefully it states that the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
+	# As explained in the data model, popularity is quantified by the “Score” given to each reaction type.
+	# We therefore need data showing the content ID, category, content type, reaction type, and reaction score.
+	# So, to figure out popularity, we’ll have to add up which content categories have the largest score.
+
+
+5> Clean the data by:
+
+	# removing rows that have values which are missing,
+	# changing the data type of some values within a column, and
+	# removing columns which are not relevant to this task
+
+6> What we have to do?
+
+	# We recommend using the Reaction table as your base table, then first join the relevant columns from your Content data set, and then the Reaction Types data set.
+	# Add up the total scores for each category.
+	# A cleaned dataset.
+	# The top 5 categories.
+	# What was the month with the most posts?
+
+7> Building Presentation:-
+
+	# Agenda - What will your presentation cover?
+	# Project Recap - What are the key points from the brief?
+	# Problem - What is the problem that you answer in this presentation?
+	# The Analytics team - Who is on your team?
+		>As a reminder from the earlier task - this includes: Andrew Fleming (Chief Technical Architect), Marcus Rompton (Senior Principle), and yourself!
+	# Process - How did you complete your analysis?
+
+
+
+8> What I did in the work for the interview purpose:
+
+	# Out of the 7 datasets:- Reaction, Content, Reaction Types, Profil, User. I choose the 3 datasets:- Reaction, Content, Reaction Types.
+	# Cleaned the DataSet. 
+	# Used VLOOKUP to joing the 3 spreedsheets.
+	# Found out the top 5 categories for Social Buzz by using SUMIF function.
+	
+
