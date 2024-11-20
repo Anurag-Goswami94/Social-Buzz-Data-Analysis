@@ -17,7 +17,7 @@
 5>> Insights: There are a total of 16 unique categories in the dataset out of which the top 5 categories are Animals, Fitness, Healthy Eating, Tennis, Veganism. 
                    Out of the top 5 categories, the most reacted category is “ANIMAL” having 25% of the reactions and during the month of “January” most of the posts were posted. Furthermore, as we analysed the most popular category out of the top 5 categories, we found out that “ANIMAL” is 21% more popular than the other 4 categories. 
 
-6>> Conclusion: Since “ANIMAL” is the most famous category from the top 5 categories you can hold different animal events such as Dog & Cat shows or an animal fair where your users can bring their pets, etc. 
+6>> Recommendation: Since “ANIMAL” is the most famous category from the top 5 categories you can hold different animal events such as Dog & Cat shows or an animal fair where your users can bring their pets, etc. 
                    Moreover, as per the analysis we also found out that “FOOD” is a common theme among the top 5 categories, be it “Fitness”, “Healthy Eating” and “Veganism”, food is related to all these categories and “Healthy Eating” is ranked highest among them. So, with this analysis we can assume that your users are also concerned about their foods. You could use these insights to create a campaign and work with healthy eating brands to boost your engagement. 
 
 
